@@ -29,7 +29,7 @@ async function handleRequest(request) {
             outBody = JSON.stringify({
                 code: invalid ? 400 : 0,
                 usage: 'Host/{URL}',
-                source: 'https://github.com/netnr/workers',
+                source: 'https://forum.tfms.xyz',
                 note: 'Blocking a large number of requests, please deploy it yourself'
             });
             outCt = "application/json";
