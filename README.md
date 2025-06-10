@@ -1,16 +1,16 @@
-To unblock a large number of requests,
+To unblock a large number of requests,<br>
 
-Cors (Cloudflare Workers) 
-Support cross-domain request    
-Convert HTTP to HTTPS
+Cors (Cloudflare Workers) <br>
+Support cross-domain request<br>
+Convert HTTP to HTTPS<br><br>
 
-### SETUP CloudFlare ###
-1, Load 10 minute email & leave the page loaded (so we can verify the email from cloudflare)
-https://10minutemail.com/
+### SETUP CloudFlare ###<br>
+1, Load 10 minute email & leave the page loaded (so we can verify the email from cloudflare)<br>
+https://10minutemail.com/<br><br>
 
-2, Sign up for free at Cloudflare using your 10 minute email address
-https://dash.cloudflare.com
-Verify the signup email! now you can close 10 minute email
+2, Sign up for free at Cloudflare using your 10 minute email address<br>
+https://dash.cloudflare.com<br>
+Verify the signup email! now you can close 10 minute email<br><br>
 
 3, On cloudflare look on the left menus for 'Compute Workers' Cick it
 4, Start with Hello World!: Click 'Get Started'
