@@ -18,19 +18,17 @@ Verify the signup email! now you close 10 minute email
 
 6, Click 'Edit Code' (Its at the top rightish)
 
-Look for (on the right side panel)
+7, Look for (on the right side panel)
 Welcome to Cloudflare Workers! This is your first worker
 DELETE ALL the text you see so its blank
 
-Copy & Paste All The Code below between ##### (There is alot of code make sure you copy it all) DO NOT INCLUDE THE HASH'S ##########
-Paste it into the empty box (Use control+v to paste)
+8, Enter this _worker.js url into a browser - https://github.com/MarkMCFC/seep/blob/main/pages/_worker.js
+Copy all the content/code you see from inside the worker.js file & paste it into cloudflare blank box (from part 7) (use cntrl+v to paste)
 
-After you have pasted the below code click the DEPLOY BUTTON
+After you have pasted the code click the DEPLOY BUTTON
 
-Once it is deployed copy your url, you will see it under the deploy button, load the url into a browser
+Once it is deployed copy your url, you will see it under the deploy button, load the url into a browser.
 
+End Points
+https://test.ytytuj.workers.dev/http://your.url.goes.here
 
-####################################
-
-
-####################################
