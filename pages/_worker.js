@@ -30,7 +30,7 @@ async function handleRequest(request) {
                 code: invalid ? 400 : 0,
                 usage: 'Host/{URL}',
                 source: 'https://forum.tfms.xyz',
-                note: 'Blocking a large number of requests, please deploy it yourself'
+                note: 'Join https://forum.tfms.xyz'
             });
             outCt = "application/json";
             outStatus = invalid ? 400 : 200;
