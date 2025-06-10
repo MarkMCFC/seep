@@ -29,6 +29,6 @@ After you have pasted the code click the DEPLOY BUTTON
 
 Once it is deployed copy your url, you will see it under the deploy button, load the url into a browser.
 
-End Points
+End Points (How to use your proxy)
 https://test.ytytuj.workers.dev/http://your.url.goes.here
 
