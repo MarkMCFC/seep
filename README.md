@@ -1,4 +1,4 @@
-To unblock a large number of requests,<br>
+To unblock a large number of requests,<br><br>
 
 Cors (Cloudflare Workers) <br>
 Support cross-domain request<br>
@@ -12,18 +12,18 @@ https://10minutemail.com/<br><br>
 https://dash.cloudflare.com<br>
 Verify the signup email! now you can close 10 minute email<br><br>
 
-3, On cloudflare look on the left menus for 'Compute Workers' Cick it
-4, Start with Hello World!: Click 'Get Started'
-5, Click Deploy
+3, On cloudflare look on the left menus for 'Compute Workers' Cick it<br>
+4, Start with Hello World!: Click 'Get Started'<br>
+5, Click Deploy<br><br>
 
-6, Click 'Edit Code' (Its at the top rightish)
+6, Click 'Edit Code' (Its at the top rightish)<br><br>
 
-7, Look for (on the right side panel)
-Welcome to Cloudflare Workers! This is your first worker
-DELETE ALL the text you see so its blank
+7, Look for (on the right side panel)<br>
+Welcome to Cloudflare Workers! This is your first worker<br>
+DELETE ALL the text you see so its blank<br><br>
 
-8, Enter this _worker.js url into a browser - https://github.com/MarkMCFC/seep/blob/main/pages/_worker.js
-Copy all the content/code you see from inside the worker.js file & paste it into cloudflare blank box (from part 7) (use cntrl+v to paste)
+8, Enter this _worker.js url into a browser<br>https://github.com/MarkMCFC/seep/blob/main/pages/_worker.js<br>
+Copy all the content/code you see from inside the worker.js file & paste it into cloudflare blank box (from part 7) (use cntrl+v to paste)<br>
 
 After you have pasted the code click the DEPLOY BUTTON
 
