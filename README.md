@@ -32,7 +32,7 @@ Once it is deployed copy your url, you will see it under the deploy button, load
 
 ####################################
 
-export default {
+[code]export default {
     async fetch(request, _env) {
         return await handleRequest(request);
     }
@@ -144,5 +144,5 @@ function fixUrl(url) {
         return "http://" + url;
     }
 }
-
+[/code]
 ####################################
