@@ -12,16 +12,17 @@ https://dash.cloudflare.com<br>
 Verify the signup email! now you can close 10 minute email<br>
 
 3, On cloudflare look on the left menus for 'Compute Workers' Cick it<br>
-4, Start with Hello World!: Click 'Get Started'<br>
-5, Click Deploy<br>
-6, Click 'Edit Code' (Its at the top rightish)<br>
+4, Click Create<br>
+5, Start with Hello World!: Click 'Get Started'<br>
+6, Click Deploy<br>
+7, Click 'Edit Code' (Its at the top rightish)<br>
 
-7, Look for (on the left side panel)<br>
+8, Look for (on the left side panel)<br>
 Welcome to Cloudflare Workers! This is your first worker<br>
 DELETE ALL the text you see so its blank<br>
 
-8, Enter this _worker.js url into a browser<br>https://raw.githubusercontent.com/MarkMCFC/seep/refs/heads/main/pages/_worker.js<br>
-Copy all the content/code you see from inside the worker.js file & paste it into cloudflare blank box (from part 7) (use cntrl+v to paste)<br>
+9, Enter this _worker.js url into a browser<br>https://raw.githubusercontent.com/MarkMCFC/seep/refs/heads/main/pages/_worker.js<br>
+Copy all the content/code you see from inside the worker.js file & paste it into cloudflare blank box (from part 8) (use cntrl+v to paste)<br>
 
 After you have pasted the code click the DEPLOY BUTTON
 
