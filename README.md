@@ -1,4 +1,4 @@
-To unblock a large number of requests,<br><br>
+To unblock a large number of requests,<br>
 
 Cors (Cloudflare Workers) <br>
 Support cross-domain request<br>
