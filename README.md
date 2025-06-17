@@ -16,7 +16,7 @@ Verify the signup email! now you can close 10 minute email<br>
 5, Click Deploy<br>
 6, Click 'Edit Code' (Its at the top rightish)<br>
 
-7, Look for (on the right side panel)<br>
+7, Look for (on the left side panel)<br>
 Welcome to Cloudflare Workers! This is your first worker<br>
 DELETE ALL the text you see so its blank<br>
 
