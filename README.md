@@ -1,8 +1,8 @@
-<b><h2>To unblock a large number of requests websites & streams</h2></b><br>
+<b><h2>To unblock a large number of requests websites & streams</h2></b>
 
 Cors (Cloudflare Workers) <br>
 Support cross-domain request<br>
-Convert HTTP to HTTPS<br>
+Convert HTTP to HTTPS
 
 ### SETUP CloudFlare ###<br>
 1, Load 10 minute email & leave the page loaded (so we can verify the email from cloudflare)<br>
