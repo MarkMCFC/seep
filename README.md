@@ -19,7 +19,7 @@ Verify the signup email! now you can close 10 minute email<br><br>
 
 7, Look for (on the right side panel)<br>
 Welcome to Cloudflare Workers! This is your first worker<br>
-DELETE ALL the text you see so its blank<br><br>
+DELETE ALL the text you see so its blank<br>
 
 8, Enter this _worker.js url into a browser<br>https://github.com/MarkMCFC/seep/blob/main/pages/_worker.js<br>
 Copy all the content/code you see from inside the worker.js file & paste it into cloudflare blank box (from part 7) (use cntrl+v to paste)<br>
