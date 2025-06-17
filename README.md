@@ -1,6 +1,5 @@
 <b><h2>To unblock a large number of requests websites & streams</h2></b>
-
-Cors (Cloudflare Workers) <br>
+Cors (Cloudflare Workers)<br>
 Support cross-domain request<br>
 Convert HTTP to HTTPS
 
