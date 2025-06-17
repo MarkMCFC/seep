@@ -2,15 +2,15 @@
 
 Cors (Cloudflare Workers) <br>
 Support cross-domain request<br>
-Convert HTTP to HTTPS<br><br>
+Convert HTTP to HTTPS<br>
 
 ### SETUP CloudFlare ###<br>
 1, Load 10 minute email & leave the page loaded (so we can verify the email from cloudflare)<br>
-https://10minutemail.com/<br><br>
+https://10minutemail.com/<br>
 
 2, Sign up for free at Cloudflare using your 10 minute email address<br>
 https://dash.cloudflare.com<br>
-Verify the signup email! now you can close 10 minute email<br><br>
+Verify the signup email! now you can close 10 minute email<br>
 
 3, On cloudflare look on the left menus for 'Compute Workers' Cick it<br>
 4, Start with Hello World!: Click 'Get Started'<br>
